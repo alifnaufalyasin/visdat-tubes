@@ -105,7 +105,7 @@ fig_data4 = figure(x_axis_type='datetime',
 fig_data5 = figure(x_axis_type='datetime',
         plot_height=500, plot_width=750,
         title='Province New_Recovered Cases',
-        x_axis_label='Date', y_axis_label='New_Recovered Cases')
+        x_axis_label='Date', y_axis_label='New Recovered Cases')
 
 fig_data.add_tools(HoverTool(tooltips = tooltip_data, formatters={'@Date':'datetime'}))
 fig_data2.add_tools(HoverTool(tooltips = tooltip_group, formatters={'@Date':'datetime'}))
