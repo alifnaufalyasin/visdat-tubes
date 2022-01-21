@@ -1,3 +1,11 @@
+
+# Anggota Kelompok 
+
+# - M Alif Naufal Yasin 1301184321
+# - Novita 1301184101
+# - M Aqmal Pangestu 1301180518
+
+
 import pandas as pd
 from bokeh.io import curdoc
 from bokeh.plotting import figure

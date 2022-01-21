@@ -1,0 +1,8 @@
+Anggota Kelompok 
+- M Alif Naufal Yasin 1301184321
+- Novita 1301184101
+- M Aqmal Pangestu 1301180518
+
+link Web : https://visdat-covid-visualize.herokuapp.com/myapp
+
+Notes : grafik akan muncul ketika slider ataupun dropdown digunakan, sudah mencari solusinya tetapi tidak ditemukan
